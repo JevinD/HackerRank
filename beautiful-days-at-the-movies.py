@@ -11,14 +11,15 @@ beautifulDays has the following parameter(s):
 i: the starting day number
 j: the ending day number
 k: the divisor
-Input Format
 
+Input Format
 A single line of three space-separated integers describing the respective values of , , and .
 
 Constraints
+1<i<=j<=2*10**6
+1<=k<=2*10**9
 
 Output Format
-
 Print the number of beautiful days in the inclusive range between  and .
 '''
 
